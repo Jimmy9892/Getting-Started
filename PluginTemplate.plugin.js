@@ -1,6 +1,6 @@
 //META{"name":"Plugin"}*//
 
-class ChannelSorter {
+class Plugin {
 		getName() { return "Plugin"; }
 		getShortName() { return "Plugin"; }
 		getDescription() { return "Plugin description."; }
